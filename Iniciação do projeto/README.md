@@ -1,2 +1,6 @@
 # Iniciação do Projeto
-Nesta primeira etapa, definimos a estrutura inicial do aplicativo, configuramos o ambiente React Native, o ambiente do Expo Go e criamos a base do repositório.
+- Nesta primeira etapa, definimos: 
+- estrutura inicial do aplicativo 
+- configuramos o ambiente React Native
+- ambiente do Expo Go
+- criamos a base do repositório.
